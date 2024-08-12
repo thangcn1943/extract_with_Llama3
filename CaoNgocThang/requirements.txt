@@ -1,0 +1,11 @@
+ctransformers
+transformers
+langchain
+langchain-community
+torch
+sentence-transformers
+gpt4all
+faiss-cpu
+openai
+langchain-huggingface
+pypdf
